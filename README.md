@@ -5,8 +5,9 @@ This project showcases a Python application that allows you to zoom in and out o
 
 ## Features
 🤖 Zoom in and out of images using hand gestures.<br>
-     📸Zoom In: Move your hand closer to the camera.<br>
-     📸Zoom Out: Move your hand away from the camera.<br>
+    <li> 📸Zoom In: Move your hand closer to the camera. </li>
+    <li> 📸Zoom Out: Move your hand away from the camera. </li>
+    
 🤖 Real-time hand tracking and gesture recognition.<br>
 🤖 Adjustable sensitivity for gesture recognition.<br>
 
